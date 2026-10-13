@@ -1,8 +1,0 @@
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/DoctorAssistantApp.java
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/chatbot/ChatbotOrchestrator.java
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/chatbot/ToolClasses.java
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/chatbot/ToolDispatcher.java
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/model/Appointment.java
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/model/AvailabilitySlot.java
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/model/Doctor.java
-/Users/vkannan/POC/doctor-assistant/src/main/java/com/clinic/assistant/service/ClinicService.java
